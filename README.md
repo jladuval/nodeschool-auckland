@@ -10,7 +10,7 @@ Welcome to the Auckland, NZ chapter of nodeschool
 ## Website
 A website for the chapter is now up at [nodeschool.io/auckland](http://nodeschool.io/auckland)
 
-## CHC.JS
+## Node-nz
 Nodeschool Auckland events get run through the Node-nz meetup group, [become a member](http://www.meetup.com/Node-nz-Auckland-MeetUp-Group/)
 
 ## Chat room
